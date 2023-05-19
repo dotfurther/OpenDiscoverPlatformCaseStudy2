@@ -23,6 +23,7 @@ Dashboard 3:
 
 Dashboard 4:  Password View
 
-Useful for creating/adding to password bank in order to re-process encrypted files
+Useful for creating/adding to password bank in order to re-process encrypted files. All potential document passwords can be exported
+to a text file.
 
-![image](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/0223358d-613c-45f0-acca-b90196a24a1b)
+![image](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/61fa4f5a-6248-4037-8af7-7b68a7908324)
