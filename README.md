@@ -1,5 +1,5 @@
 # OpenDiscoverPlatformCaseStudy2
-Open Discover Platform:: Incidence Response in Relativity using Relativity Dynamic Object (RDO) as Entity Store
+Open Discover Platform:: Incident Response in Relativity using Relativity Dynamic Object (RDO) as Entity Store
 
 In this case study, we make use of a Relativity Application (RAP) created for dotFurther by cDiscovery. Open Discover Platform (ODP) **
 was used to process a small open source data set. While distributed processing of documents, ODP also extracts 350+ entities in addition
