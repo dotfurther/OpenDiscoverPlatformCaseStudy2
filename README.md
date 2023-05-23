@@ -9,7 +9,7 @@ entity types are useful for incident response, data breach, and information gove
 ** ODP automates and distributes processing and it uses the low-level Open Discover SDK for extracting content. For a small overview of 
 entity types see:  https://github.com/dotfurther/OpenDiscoverSDK
 
-Dashboard 1:
+Dashboard 1: Extracted Entity Summary View
 ![dfDashboard1](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/5ef39836-b74a-4473-baee-e2aef0929473)
 
 
