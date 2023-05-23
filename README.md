@@ -10,8 +10,7 @@ entity types are useful for incident response, data breach, and information gove
 entity types see:  https://github.com/dotfurther/OpenDiscoverSDK
 
 Dashboard 1:
-![image](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/6f120376-62d2-4509-90a0-9ed4de12ee27)
-
+![dfDashboard1](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/5ef39836-b74a-4473-baee-e2aef0929473)
 
 Dashboard 2:
 ![image](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/316994ad-8fd7-4b54-bebe-1fa9c282dc92)
