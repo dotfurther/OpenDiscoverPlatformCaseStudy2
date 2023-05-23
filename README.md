@@ -13,7 +13,7 @@ entity types see:  https://github.com/dotfurther/OpenDiscoverSDK
 ![dfDashboard1](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/5ef39836-b74a-4473-baee-e2aef0929473)
 
 
-## Dashboard 2:
+## Dashboard 2: PII/PHI Entity Density Summary View
 ![dfDensityDashboard](https://github.com/dotfurther/OpenDiscoverPlatformCaseStudy2/assets/52750989/fe1fb34f-dc3d-4da3-976e-51e20bd0ff91)
 
 
